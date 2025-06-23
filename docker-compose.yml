@@ -1,4 +1,4 @@
-ervices:
+Services:
   jellyfin:
     container_name: jellyfin
     image: jellyfin/jellyfin:latest
